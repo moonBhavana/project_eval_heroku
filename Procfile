@@ -1,0 +1,1 @@
+web: gunicorn project_evaluation:project_evaluation
